@@ -11,5 +11,5 @@ This repository contains Python exercises and mini projects as I learn Python.
 ## Mini Projects
 - CLI To-Do List
 - Number Guessing Game
-
+-(Up next) CLI Expense Tracker
 More projects coming soon.
